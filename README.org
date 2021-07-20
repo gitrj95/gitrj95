@@ -1,0 +1,3 @@
+hi, i'm ram (aka rj/rj95). visit me [[https://rj95.be][here]]. some of this code is used in
+production. if you're using a repository in production, [[mailto:chat@rj95.be][email me]] ([[https://github.com/gitrj95.gpg][gpg]]) and i'll
+try to keep it stable
