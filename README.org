@@ -1,1 +1,1 @@
-hi, i'm ram (aka rj/rj95). visit me [[https://rj95.be][here]]. if you want to chat, [[mailto:chat@rj95.be][email me]] ([[https://github.com/gitrj95.gpg][gpg key]])
+hi, i'm ram (aka rj/rj95). visit me [[https://rj95.be][here]]. if you want to chat, [[mailto:chat@rj95.be][email me]] ([[https://rj95.be/gpg.txt][gpg key]])
